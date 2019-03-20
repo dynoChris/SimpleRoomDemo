@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SimpleRoomDemo</string>
+    <string name="add_to_db">Add to DB</string>
+</resources>
